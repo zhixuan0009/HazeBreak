@@ -1,2 +1,2 @@
 # HazeBreak
-Code will be released upon paper acceptance.
+**Code will be released upon paper acceptance.**
